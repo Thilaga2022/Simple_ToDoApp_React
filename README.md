@@ -29,7 +29,7 @@ If you’ve got any suggestions or just want to connect, feel free to reach out!
 ---
 
 ### 📂 Getting Started
-Clone the repo and run locally:
+Clone the repo and run locally:https://github.com/Thilaga2022/Simple_ToDoApp_React.git
 
 ```bash
 git clone : 
